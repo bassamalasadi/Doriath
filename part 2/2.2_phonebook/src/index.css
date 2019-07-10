@@ -1,0 +1,22 @@
+h1 {
+    color: green;
+    font-style:italic;
+    font-weight: bold;
+    text-shadow: 4px 4px 3px #77f;
+  }
+button {
+  box-shadow:2px 2px 1px #77f;
+  background-color: rgb(154, 128, 248); /* Green */
+  border: none;
+  color: white;
+  padding: 1px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius:5px;
+}
+input {
+  border-radius:5px;
+}
+
